@@ -39,6 +39,12 @@ Think about your favorite meal, maybe a recent one, and fill in the metadata bas
 
 We will use our new collection to introduce everyone in the course!
 
+- Name
+- About your Meal
+- Where you are coming from
+- Background with digital collections and/or DH
+- Project ideas
+
 -------------------
 
 ## About CollectionBuilder-Sheets
