@@ -10,6 +10,33 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
+## DHSI 2026 
+
+Welcome to "Creating Digital Collections with Minimal Infrastructure: Hands On with CollectionBuilder for Teaching and Exhibits", Digital Humanities Summer Institute 2026!
+
+### Icebreaker 
+
+We are going to collaboratively edit a spreadsheet that is currently driving this collection site. 
+
+Find the line that has your first name, edit only that line!
+
+### Best Meal Metadata
+
+Think about your favorite meal, maybe a recent one, and fill in the metadata based on that experience:
+
+- creator - your preferred name.
+- title - name of the place you had the meal.
+- date - year of the meal, or ISO date (yyyy-mm-dd).
+- description - about the meal and its significance.
+- subject - Provide some ingredients/keywords that would be helpful for categorizing your meal. Separate tags by semi-colons and do not use hashtags.
+- location - Location of restaurant or place (city, state, country) e.g., Omaha, NE, USA
+- latitiude - Note: You can get latitude and longitude by right clicking on a Google Maps location and copying/pasting the coordinates.
+- longitude 
+- format - the format of a representative image (`image/jpeg`, `image/png`, or if no image `record`)
+- filename - a full URL direct to a representative image file 
+
+-------------------
+
 ## About CollectionBuilder-Sheets
 
 This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
