@@ -66,7 +66,7 @@ metadata-csv: /objects/dhsi2026-share.csv
 # (this is done automatically by gh-pages build)
 #
 # dev mode turns on ability to change metadata
-development-mode: true
+#development-mode: true
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
